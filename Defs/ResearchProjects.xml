@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!--============== Manual ==============-->
+
+<ResearchProjectDef>
+    <defName>JDSFettsArmorSet</defName>
+    <label>Jango And Boba Fett Armor set</label>
+    <description>...</description>
+<baseCost>2500</baseCost>
+<tab>JDSTheForgetab</tab>
+<techLevel>Spacer</techLevel>
+<researchViewY>5</researchViewY>	<!-- up and down-->
+<researchViewX>3</researchViewX>	<!-- left and right -->
+		<prerequisites>
+			<li>TheBlastForgeRelics</li>
+		</prerequisites>
+</ResearchProjectDef>
+
+</Defs>

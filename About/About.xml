@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>[JDS] Star Wars Jango and Boba Fett</name>
+		<author>JangoD'soul</author>
+		<supportedVersions>
+			<li>1.0</li>
+			<li>1.1</li>
+			<li>1.2</li>			
+		</supportedVersions>
+		<packageId>JangoDsoul.StarWars.JABFAS</packageId>
+		<description>This add Jango and Boba Fett Armor set from star wars moives 
+
+[h1]!!!!!!!!!Weapon are not included!!!!!!!!![/h1]
+
+Note: no CE patch yet, This is just a Template and there are more to come.
+
+[h1]Features:[/h1]
+ -Jango Fett Armor Set
+ -Boba Fett Armor Set
+
+[h1]Crafting Requirements:[/h1]
+-Craftable
+-Research Requirements: PoweredArmor
+
+[h1]Credits:[/h1]
+- Star Wars: Moives
+- [b]Pelador[/b] for add-on code for the Jetpack mod to use
+		</description>
+		<modDependencies>
+			<li>
+				<displayName>[JDS] The Forge - Anvil</displayName>			
+				<packageId>JangoDsoul.TheForge.Anvil</packageId>
+				<steamWorkshopUrl>steam://url/CommunityFilePage/1967561500</steamWorkshopUrl>
+			</li>
+		</modDependencies>
+<!--	<loadBefore>
+			<li>ModderName.ModSeries.ModName</li>
+		</loadBefore> -->	
+		<loadAfter>
+			<li>JangoDsoul.TheForge.Anvil</li>
+		</loadAfter>
+	</ModMetaData>
